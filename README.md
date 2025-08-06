@@ -11,7 +11,7 @@ Gen-AI-Notes is an AI-powered note-taking assistant that transforms raw content�
 - 🔗 **LangChain integration** for building advanced AI workflows
 - 🔍 Smart tagging and semantic search
 - 📤 Export notes as PDF, Markdown, or DOCX
-- 🧾 Chat interface for refining or querying notes
+- 🧾 Chat interface for refining or querying note
 
 ---
 
